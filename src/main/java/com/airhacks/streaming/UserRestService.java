@@ -36,7 +36,7 @@ public class UserRestService {
 	@Path("/vip")
 	public Response getUserVIP() {
 
-		return Response.status(200).entity("getUserVIP is called").build();
+		return Response.status(200).entity("getUserVIP is called ! ! ! !  Amar EDDINE").build();
 
 	}
 
